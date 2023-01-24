@@ -13,7 +13,7 @@ Run the Automated-Paper-Downloader.bat to install paper (WHEN USING THE SCRIPT D
 
 The script won't install Java you will have to do it manually.
 
-If you don't know how to check if you have java installed then run the Java-Checker.bat if it says a version then its installed.
+If you don't know how to check if you have java installed then run the Java-Checker.bat  if it says a version then its installed.
 
 Java 17 https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi
 
